@@ -1,5 +1,5 @@
 # 📘 GRAND GUIDE : ANALYSE D'UN PROJET DATA SCIENCE
-![photo de salma fadli.jpeg](https://github.com/fadlisalmaencg-a11y/DS-2025/blob/main/photo%20de%20salma%20fadli.jpeg?raw=true)
+![photo sanae belyasmine.jpeg](https://github.com/belyasminesanaeencg-droid/22007684_Sanae_Belyasmine/blob/5127ea756f97a1f741ed3d6892565b1c3810dc89/photo%20sanae%20belyasmine.jpeg)
 ## 📱 *Cas d'étude : Prédiction de la santé mentale via l'usage des réseaux sociaux*
 
 ------------------------------------------------------------------------
