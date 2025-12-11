@@ -1,4 +1,5 @@
 # 📘 GRAND GUIDE : ANALYSE D'UN PROJET DATA SCIENCE
+# Sanae BELYASMINE CAC Groupe 1
 ![photo sanae belyasmine.jpeg](https://github.com/belyasminesanaeencg-droid/22007684_Sanae_Belyasmine/blob/5127ea756f97a1f741ed3d6892565b1c3810dc89/photo%20sanae%20belyasmine.jpeg)
 ## 📱 *Cas d'étude : Prédiction de la santé mentale via l'usage des réseaux sociaux*
 
