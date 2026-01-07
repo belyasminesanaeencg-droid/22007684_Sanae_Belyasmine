@@ -210,6 +210,4 @@ Ce projet démontre :
 * Analyse temporelle si données chronologiques disponibles
 * Approche coût-sensible (pondérer les FN)
 
----
 
-📌 *Ce compte rendu est structuré selon une logique académique et professionnelle, conforme aux attentes d’un projet Data Science universitaire.*
